@@ -7,7 +7,7 @@
 - [Red Hat linux OVA建置](https://github.com/shawnhuang125/Red-hat-linux-establishment.md)
 - [Ubuntu Server OVA建置]() 
 - [Rocky Linux OVA建置]()
-### 配置特殊Server
+### 配置Server
 - [LAMP Server建置]()
 - [Samba Server建置]()
 - [FTP Server建置]()
