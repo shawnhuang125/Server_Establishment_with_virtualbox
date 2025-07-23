@@ -19,3 +19,5 @@
 - [Kali Linux官網]()
 - [Windows Server官網]()
 - [Red Hat linux官網]()
+## 說明
+<img width="761" height="711" alt="image" src="https://github.com/user-attachments/assets/c877b60a-c27b-48c4-a93c-cf4023ff6a89" />
