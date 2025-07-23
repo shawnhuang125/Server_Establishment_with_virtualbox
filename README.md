@@ -12,12 +12,10 @@
 - [Samba Server建置]()
 - [FTP Server建置]()
 - [DHCP Server建置]()
-## 作業繳交方法
-- 請使用OBS錄製操作影片
-- 上傳Youtube
-- 複製影片連結
-- 影片連結貼到LINE群組聊天室的記事本留言區
 
 ## 外部連結
-- [VitualBox](https://www.virtualbox.org/wiki/Downloads)
-- [OBS Download](https://obsproject.com/download)
+- [VitualBox官網](https://www.virtualbox.org/wiki/Downloads)
+- [Rocky Linux官網]()
+- [Kali Linux官網]()
+- [Windows Server官網]()
+- [Red Hat linux官網]()
